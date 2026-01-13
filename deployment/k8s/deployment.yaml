@@ -1,0 +1,12 @@
+
+
+# TODO: Define Deployment metadata and labels
+# TODO: Configure replicas for high availability
+# TODO: Define container image and registry
+# TODO: Configure resource requests and limits (CPU, memory)
+# TODO: Define environment variables and ConfigMaps
+# TODO: Configure health checks (liveness, readiness probes)
+# TODO: Mount volumes for model storage
+# TODO: Configure rolling update strategy
+# TODO: Add pod disruption budget
+# TODO: Configure affinity rules if needed

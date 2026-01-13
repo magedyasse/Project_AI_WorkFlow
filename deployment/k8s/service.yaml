@@ -1,0 +1,12 @@
+# """
+# Kubernetes service manifest.
+
+# Exposes the forecasting API service to internal and external traffic.
+# """
+
+# TODO: Define Service type (ClusterIP, LoadBalancer, etc.)
+# TODO: Configure port mappings
+# TODO: Define selector labels
+# TODO: Configure service annotations if needed
+# TODO: Set up session affinity if required
+# TODO: Configure timeout settings

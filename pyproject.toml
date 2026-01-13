@@ -1,0 +1,28 @@
+# TODO: Project metadata
+# name = "aavail-revenue-forecasting"
+# version = "0.1.0"
+# description = "Revenue forecasting system for AAVAIL"
+# authors = [{"name": "AAVAIL Team"}]
+# license = {text = "TODO"}
+
+# TODO: Build system configuration
+# requires = ["setuptools", "wheel"]
+# build-backend = "setuptools.build_meta"
+
+# TODO: Project URLs
+# [project.urls]
+# Homepage = "TODO"
+# Repository = "TODO"
+# Documentation = "TODO"
+
+# TODO: Dependencies specification
+# [project.optional-dependencies]
+# dev = [...]
+# test = [...]
+# docs = [...]
+
+# TODO: Tool configurations
+# [tool.pytest.ini_options]
+# [tool.mypy]
+# [tool.black]
+# [tool.isort]

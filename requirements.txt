@@ -1,0 +1,46 @@
+# Core Data Processing
+# TODO: pandas==X.X.X
+# TODO: numpy==X.X.X
+# TODO: scipy==X.X.X
+
+# Time-Series Forecasting
+# TODO: statsmodels==X.X.X
+# TODO: prophet==X.X.X
+
+# Machine Learning
+# TODO: scikit-learn==X.X.X
+# TODO: xgboost==X.X.X
+# TODO: lightgbm==X.X.X
+# TODO: tensorflow==X.X.X
+# TODO: torch==X.X.X
+
+# API Framework
+# TODO: fastapi==X.X.X
+# TODO: uvicorn==X.X.X
+# TODO: pydantic==X.X.X
+
+# Database
+# TODO: sqlalchemy==X.X.X
+# TODO: psycopg2-binary==X.X.X
+
+# Caching
+# TODO: redis==X.X.X
+
+# Monitoring & Logging
+# TODO: prometheus-client==X.X.X
+# TODO: python-json-logger==X.X.X
+
+# Testing
+# TODO: pytest==X.X.X
+# TODO: pytest-cov==X.X.X
+
+# Code Quality
+# TODO: black==X.X.X
+# TODO: flake8==X.X.X
+# TODO: mypy==X.X.X
+# TODO: isort==X.X.X
+
+# Development
+# TODO: jupyter==X.X.X
+# TODO: ipython==X.X.X
+# TODO: python-dotenv==X.X.X
